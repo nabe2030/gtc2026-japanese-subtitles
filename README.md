@@ -19,12 +19,9 @@ YouTubeの画面にSRTをドラッグ＆ドロップ
 ## 注意
 - 非公式・個人翻訳です
 - 技術用語（GPU/CUDA/AI/NVLink等）は英語のまま
-```
 
 書き終えたら **「Commit changes」** で保存。
-
 ---
-
 ### 完成後のURL
 ```
 https://github.com/nabe2030/gtc2026-japanese-subtitles
@@ -33,3 +30,4 @@ https://github.com/nabe2030/gtc2026-japanese-subtitles
 SRTの直接ダウンロードリンクはこうなります：
 ```
 https://github.com/nabe2030/gtc2026-japanese-subtitles/raw/main/NVIDIA_GTC_2026_JA.srt
+```
